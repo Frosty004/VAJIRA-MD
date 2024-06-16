@@ -12,7 +12,7 @@ global.owner = process.env.OWNER_NUMBER  || '94701992015' ;  // ADD YOUR NUMBER 
     
     
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || 'youre session id' ,
+SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD=eVNCjJLY#6ilxc8XKGnt700-BMQ1G5prggiitTfsk7i4kf-Ik0-o' ,
 travaSend: process.env.TRAVA_SEND || '25' ,    
 MAX_SIZE: process.env.MAX_SIZE === undefined ? '1536': process.env.MAX_SIZE,/*add this in megabytes*/    
 OWNER_NAME: process.env.OWNER_NAME || 'VAJIRA' ,
